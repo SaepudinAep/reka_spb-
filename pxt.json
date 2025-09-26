@@ -1,0 +1,30 @@
+{
+    "name": "Spb ",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-rekabit": "github:cytrontechnologies/pxt-rekabit#v1.2.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v3.0.57",
+        "tag": "v3.0.57",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/bcddb0621601b6dc5b931f68ecb142996b1884cd",
+        "target": "8.0.16",
+        "pxt": "6.0.34",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
